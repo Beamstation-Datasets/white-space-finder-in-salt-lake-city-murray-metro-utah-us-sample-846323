@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Salt Lake City-Murray, UT that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Salt Lake City-Murray (Metro), Utah, US",
-  "export_job_id": "20c85ede-1ff9-41a6-a73e-85fac56bd740",
+  "export_job_id": "99fca104-72b5-40b7-b9dc-81e08370ad95",
   "github_org": "Beamstation-Datasets",
   "id_short": 846323,
   "location_name": "Salt Lake City-Murray, UT",
   "location_type": "metro",
   "repo_name": "white-space-finder-in-salt-lake-city-murray-metro-utah-us-sample-846323",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/846323/beamstation_846323_food_and_drink-us-saltlakecitymurrayut_SAMPLE_DIST.csv",
-  "sample_pct": 8.33,
+  "sample_pct": 9.09,
   "sample_records": 2,
   "sample_sha256": "824f52bbfb949d6f1402ebec1be3a21b862f51f73ca0ace813de416884fcf072",
   "sample_size_bytes": 24660,
-  "total_records": 24,
-  "updated_at": "2026-04-07T16:47:02.596970+00:00"
+  "total_records": 22,
+  "updated_at": "2026-04-14T22:34:49.444742+00:00"
 }
