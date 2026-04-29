@@ -1,12 +1,12 @@
 {
-  "export_job_id": "97b4bf62-c34f-4730-9172-f0212e95e750",
+  "export_job_id": "3136172f-be5a-441c-bdb1-57e1904ed825",
   "id_short": 846323,
-  "published_at": "2026-04-22T19:03:55Z",
+  "published_at": "2026-04-29T07:51:59Z",
   "repo_name": "white-space-finder-in-salt-lake-city-murray-metro-utah-us-sample-846323",
   "sample_asset_name": "beamstation_846323_food_and_drink-us-saltlakecitymurrayut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/846323/beamstation_846323_food_and_drink-us-saltlakecitymurrayut_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "9b5c1c8c4107efc1a0ab100511f0b97e630e5d681018c6952cb80120bada4280",
-  "sample_size_bytes": 19878,
-  "total_records": 16
+  "sample_records": 2,
+  "sample_sha256": "4245bad34186b7daccbd9df8895a716b7b87255eead4a43321c2c74879cf8876",
+  "sample_size_bytes": 23328,
+  "total_records": 22
 }
