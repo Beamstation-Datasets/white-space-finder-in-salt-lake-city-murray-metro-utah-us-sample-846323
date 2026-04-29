@@ -1,6 +1,6 @@
 # White Space Finder in Salt Lake City-Murray (Metro), Utah, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `846323` |
 | Location | Salt Lake City-Murray, UT |
 | Category | Restaurants |
-| Full dataset size | 16 records |
-| Free sample size | 1 records (6.25%) |
-| Last export | 2026-04-22T01:34:33.102510+00:00 |
+| Full dataset size | 22 records |
+| Free sample size | 2 records (9.09%) |
+| Last export | 2026-04-29T04:38:51.172320+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-salt-lake-city-murray-metro-utah-us-sample-846323/releases/download/sample-latest/beamstation_846323_food_and_drink-us-saltlakecitymurrayut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
